@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="round" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize"> 40dp </item>
+        <item name="android:color"> @color/white</item>
+    </style>
+    <style name="round2" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize"> 35dp </item>
+
+
+    </style>
+    <style name="round3" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize"> 55dp </item>
+        <item name="android:color"> @color/white</item>
+        <item name="android:elevation"> 30dp</item>
+
+    </style>
+    <style name="imgprofile" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize"> 5dp </item>
+        <item name="android:color"> @color/white</item>
+        <item name="android:elevation"> 30dp</item>
+
+    </style>
+</resources>
